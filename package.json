@@ -16,7 +16,7 @@
     "express-force-https": "^1.0.0",
     "gsap": "^2.1.1",
     "material-design-icons-iconfont": "^3.0.3",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.13.1",
     "periodic-table": "0.0.8",
     "sass-loader": "^7.0.3",
     "vue": "^2.5.2",
