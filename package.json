@@ -14,7 +14,7 @@
     "chart.js": "^2.7.2",
     "express": "^4.16.3",
     "express-force-https": "^1.0.0",
-    "gsap": "^2.1.1",
+    "gsap": "^3.6.0",
     "material-design-icons-iconfont": "^3.0.3",
     "node-sass": "^4.9.2",
     "periodic-table": "0.0.8",
